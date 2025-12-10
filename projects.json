@@ -1,5 +1,6 @@
 {
   "games": {
-    "btdc": { "lastComment": "Init", "lastUpdate": 946713600000, "version": 0.01 }
+    "btdc": { "lastComment": "Init", "lastUpdate": 946713600000, "version": 0.01 }, 
+    "abcd": { "lastComment": "new stuff", "lastUpdate": 1946713600000, "version": 100.94 }
   }
 }
